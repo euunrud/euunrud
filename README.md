@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff8597,100:fe95f0&height=240&text=Hello!&animation=blinking&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff8597,100:fe95f0&height=240&text=Hello!%20I'm%20Eunkyung!&animation=blinking&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -26,7 +26,10 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=euunrud&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
-         />  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=euunrud&bg_color=20232a&title_color=ff9654&theme=react-dark&color=ff9654&text_color=ffffff"
+         />  </div> <p></p>
+        <div><a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=euunrud&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=ff9654" width=94%/>
+</a></div>
     </div>
     

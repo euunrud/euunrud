@@ -37,7 +37,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=euunrud&bg_color=20232a&title_color=ff9654&theme=react-dark&color=ff9654&text_color=ffffff"
          />  </div> <p></p>
         <div><a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=euunrud&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=ff9654" width=94%/>
 </a></div>
     </div>
     

@@ -33,10 +33,4 @@
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br/
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=euunrud&bg_color=20232a&title_color=ff9654&theme=react-dark&color=ff9654&text_color=ffffff"
-         />  </div> <p></p>
-        <div><a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-</a></div>
-    </div>
     

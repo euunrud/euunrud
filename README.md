@@ -1,5 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffef87,30:ff80aa,60:ffef87,80:ff80aa&height=280&text=Hello!%20I'm%20Eunkyung!&animation=blinking&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  

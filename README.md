@@ -32,4 +32,11 @@
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br/
           </div>
     </div>
-    
+
+</a><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=euunrud&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/euunrud"
+  width="600"
+  height="300"
+/>
+</a>

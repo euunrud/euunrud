@@ -1,38 +1,47 @@
-<div align= "center">
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> 
-          <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br/
-          </div>
-    </div>
+<div>
+    
+## 🛠️ Tech Stacks
+        
+<b>BackEnd</b>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-336791?style=flat-square&logo=hibernate&logoColor=white"/>
 
+<b>DataBase</b>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+<b>Infra & DevOps</b>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon%20rds&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon%20ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-FF4F8B?style=flat-square&logo=amazon%20iam&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20VPC-FF9900?style=flat-square&logo=amazon%20vpc&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20CloudFront-6D59A1?style=flat-square&logo=amazon%20cloudfront&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+<b>Monitoring & Testing</b>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6-8F68D9?style=flat-square&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/nGrinder-61DAFB?style=flat-square&logo=ngrinder&logoColor=black"/>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white"/>
+    </div>
+</br>
+
+## 🖥️ Experience & Activities
+
+- **Goorm 프로펙트** | 풀스택 과정 3기 (2025.07 ~ 2025.09)
+- **삼양사** | 인턴 - 데이터 (2025.04 ~ 2025.07)
+- **모바일 앱개발 협동 조합** | 인턴 - 백엔드 (2024.09 ~ 2024.12)
+- **UMC(University MakeUs Challenge)** | Server Developer 4th·5th (2023.03 ~ 2024.02)
+
+</br>
+</br>
 </a><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=euunrud&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/euunrud"

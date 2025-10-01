@@ -16,12 +16,6 @@
 
 <b>Infra & DevOps</b>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon%20rds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon%20ec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20IAM-FF4F8B?style=flat-square&logo=amazon%20iam&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20VPC-FF9900?style=flat-square&logo=amazon%20vpc&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20CloudFront-6D59A1?style=flat-square&logo=amazon%20cloudfront&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
@@ -32,14 +26,12 @@
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white"/>
     </div>
 </br>
-
 ## 🖥️ Experience & Activities
 
 - **Goorm 프로펙트** | 풀스택 과정 3기 (2025.07 ~ 2025.09)
 - **삼양사** | 인턴 - 데이터 (2025.04 ~ 2025.07)
 - **모바일 앱개발 협동 조합** | 인턴 - 백엔드 (2024.09 ~ 2024.12)
 - **UMC(University MakeUs Challenge)** | Server Developer 4th·5th (2023.03 ~ 2024.02)
-
 </br>
 </br>
 </a><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=euunrud&utm_content=farm">

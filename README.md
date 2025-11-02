@@ -31,7 +31,6 @@
 - **Goorm 프로펙트** | 풀스택 과정 3기 (2025.07 ~ 2025.09)
 - **삼양사** | 인턴 - 데이터 (2025.04 ~ 2025.07)
 - **모바일 앱개발 협동 조합** | 인턴 - 백엔드 (2024.09 ~ 2024.12)
-- **UMC(University MakeUs Challenge)** | Server Developer 4th·5th (2023.03 ~ 2024.02)
 </br>
 </br>
 </a><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=euunrud&utm_content=farm">
